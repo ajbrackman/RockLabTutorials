@@ -32,3 +32,5 @@ Set Up
 
 Running the Sample
 =====
+
+#. Keep your sample under the disc mill hood.
