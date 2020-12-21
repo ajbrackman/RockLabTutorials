@@ -2,9 +2,10 @@
 Disc mill
 *****
 
-*It is recommended to complete preliminary cleaning and set up for both the jaw crusher and the disc mill, then run your sample through both, in that order.*
+.. Note::
+  *It is recommended to complete preliminary cleaning and set up for both the jaw crusher and the disc mill, then run your sample through both, in that order.*
 
-.. contents:: Table of contents
+.. content:: Table of contents
 
 Video Tutorial
 =====
@@ -47,14 +48,14 @@ Running the Sample
 
 #. Close the hood, turn on the light and fan with the switch on the side of the hood (1), and start the disc mill with the button on the wall (2). Listen for a moment to make sure everything is running smoothly.
 
-.. figure: switches.png
+.. figure:: switches.png
   :alt: Image of switches
   :caption: Switches for Disc mill
   :align: center
 
 #. Deposit the sample into the slot on the machine in small increments (about 1-2 tablespoons at a time) from the Dixie cup. After depositing, wait and listen for the machine to clear before adding the next bit of sample.
 
-.. Note:
+.. Note::
   NOTE: For harder rocks, err on the side of caution by depositing smaller amounts of sample to keep the machine from locking up or jamming.
 
 #. Once the entire sample has been run, turn off the disc mill and the hood. Carefull open the trash bag taped over the top and then open the lid of the disc mill.

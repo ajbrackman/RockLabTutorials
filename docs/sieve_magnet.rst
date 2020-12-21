@@ -2,7 +2,7 @@
 Sifting and Magnetic Plunging
 *****
 
-.. Note: *To avoid leaving your sample out, this procedure should be immediately followed by Frantz magnetic separation.*
+.. Note:: *To avoid leaving your sample out, this procedure should be immediately followed by Frantz magnetic separation.*
 
 #. Grab the 250μm sieve, the small wire brush, and the metal pick. Using the tools, clean the sieve so that NO grains are visible. Use compressed air to ensure all dust is off of the sieve.
 #. Make a tray or “boat” out of foil, large enough for the sieve to fit inside, and allow room for back-and-forth shaking of the sieve.

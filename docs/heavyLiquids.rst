@@ -13,6 +13,8 @@ Heavy Liquid Separation
 .. Attention::
   Anything that touches M.I. or acetone should be disposed of in a Ziploc bag labeled “M.I. Waste” kept under the hood to be collected later on by someone certified to dispose of chemical waste. This includes filters, paper towels, kimwipes, latex gloves, etc…
 
+.. content:: Table of contents
+
 Set Up
 =====
 
@@ -26,7 +28,7 @@ Set Up
   * Two (2) pieces of circular filter paper
   * One (1) glass stirring rod
 
-# Arrange the supplies as shown in the diagram below.
+#. Arrange the supplies as shown in the diagram below.
 
 .. figure: placeholder.png
   :alt: Fume hood set-up
