@@ -54,6 +54,10 @@ Processing Your Sample
 
 #. Lower the separatory funnel into place again. Open the stopcock to allow a slow trickle of M.I. into the new, clean filtered funnel. It should be draining into the same flask that already has some M.I. in it. Allow the separatory funnel to empty completely.
 
+.. figure:: ../images/heavyLiquids_2.png
+  :alt: Switching flasks
+  :align: center
+
 #. Rinse the sample on the other flask, away from the separatory funnel with acetone thoroughly. Make sure to squirt down into the sample to move the grains around, and rinse all parts of the filter paper. Wait until acetone drains, and repeat about 3 or 4 times, or until you are confident you’ve rinsed and dissolved all the M.I.
 
 #. Remove the filter paper from the funnel that has just been rinsed, and place the filter paper under a heat lamp, opened, so that the sample can dry.
