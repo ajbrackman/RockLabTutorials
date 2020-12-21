@@ -5,7 +5,7 @@
 
 Welcome to CSUN Rock Lab Manual's documentation!
 ================================================
-
+These pages provide directions on the equipment and processes involved in preparing rock samples for geochemical analysis.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
