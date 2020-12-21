@@ -17,3 +17,10 @@ These pages provide directions on the equipment and processes involved in prepar
    /docs/frantz
    /docs/waterTable
    /docs/heavyLiquids
+
+.. toctree::
+  :maxdepth: 2
+  :numbered:
+  :caption: Fused Glass Bead process
+
+  /docs/JawCrusher
