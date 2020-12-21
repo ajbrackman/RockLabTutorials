@@ -1,11 +1,11 @@
-Heavy Liquid Separation
-            A few things to remember:
-1.     Methylene iodide (M.I.), the heavy liquid separator we will be using, is VERY toxic.
-2.     Always perform this procedure under a fume hood, and with the proper safety gear.
-3.     We are relying on the density of the M.I. to separate zircon from the rest of the sample. Therefore, it is very important that you do not accidentally mix anything into the M.I., as we will be reclaiming it and using it over and over again. This also means all glassware must be COMPLETELY DRY before you begin. Keep careful track of what you are doing and WORK SLOWLY. The M.I. is very expensive and we want to avoid having to replace it.
-4.     Any spills or drops of M.I. must be IMMEDIATELY cleaned up using a paper towel dampened with acetone. M.I. will dissolve and become inert in acetone.
-5.     Anything that touches M.I. or acetone should be disposed of in a Ziploc bag labeled “M.I. Waste” kept under the hood to be collected later on by someone certified to dispose of chemical waste. This includes filters, paper towels, kimwipes, latex gloves, etc…
-1.     Put on latex gloves and a lab coat.
+# Heavy Liquid Separation
+A few things to remember:
+1. Methylene iodide (M.I.), the heavy liquid separator we will be using, is VERY toxic.
+2. Always perform this procedure under a fume hood, and with the proper safety gear.
+3. We are relying on the density of the M.I. to separate zircon from the rest of the sample. Therefore, it is very important that you do not accidentally mix anything into the M.I., as we will be reclaiming it and using it over and over again. This also means all glassware must be COMPLETELY DRY before you begin. Keep careful track of what you are doing and WORK SLOWLY. The M.I. is very expensive and we want to avoid having to replace it.
+4. Any spills or drops of M.I. must be IMMEDIATELY cleaned up using a paper towel dampened with acetone. M.I. will dissolve and become inert in acetone.
+5. Anything that touches M.I. or acetone should be disposed of in a Ziploc bag labeled “M.I. Waste” kept under the hood to be collected later on by someone certified to dispose of chemical waste. This includes filters, paper towels, kimwipes, latex gloves, etc…
+1. Put on latex gloves and a lab coat.
 
 2. Gather two vacuum Erlenmeyer flasks, two glass funnels with rubber stoppers, the separatory funnel and stopcock assembly, and the separatory funnel stand. Arrange them as shown in the diagram (1). Take a piece of circular filter paper, and fold it in half, then in half again. Open it (2) and crease the sides. Place it in one of the glass funnels so that it stays. Repeat with another piece of filter paper for the second funnel.
 
