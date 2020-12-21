@@ -9,7 +9,8 @@ These pages provide directions on the equipment and processes involved in prepar
 
 .. toctree::
    :maxdepth: 2
-   :caption: Zircon Separation Process:
+   :numbered:
+   :caption: Zircon Separation Process
 
    /docs/JawCrusher
    /docs/frantz
