@@ -1,6 +1,6 @@
 *It is recommended to complete preliminary cleaning and set up for both the jaw crusher and the disc mill, then run your sample through both, in that order.*
 
-# **Jaw Crusher**
+**Jaw Crusher 1**
 
 1. Clean the jaw crusher plates by first scrubbing thoroughly with the metal brush, followed by vacuuming, blowing with compressed air, then wiping with a slightly damp paper towel. (Be sure to dry the jaw crusher with compressed air immediately after using damp paper towel to prevent build up of rust). Remember to clean spaces around the plates, and all surfaces of the machine that may have gathered dust as well. Close the jaw crusher and tighten the wheel to hold it in place.
 
@@ -12,7 +12,7 @@
 3. Adjust the opening between the jaw crusher plates until the gap is about 0.5 cm across (to yield pieces that are approximately pea-sized).
 
 .. centered::
-  ![Image of Jaw Crusher 2](../images/jawCrusher_2.png)      
+  ![Image of Jaw Crusher 2](../images/jawCrusher_2.png)
 
 1. DON PROTECTIVE GEAR: Safety glasses and dust mask. Hearing protection too, if desired.
 2. Run your sample through the jaw crusher by dropping in a handful of your sample at a time, and immediately covering with the metal plate to prevent pieces from flying all over the room. (Keep your hand on the plate while it’s covering the opening. Harder rocks will fly upward with some force). Wait for the jaws to clear completely, and then deposit the next handful.
