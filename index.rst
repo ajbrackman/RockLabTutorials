@@ -15,10 +15,3 @@ These pages provide directions on the equipment and processes involved in prepar
    /docs/frantz
    /docs/waterTable
    /docs/heavyLiquids
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
