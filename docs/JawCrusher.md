@@ -10,7 +10,7 @@ Zircon Separation Procedure
 
 1. Clean the jaw crusher plates by first scrubbing thoroughly with the metal brush, followed by vacuuming, blowing with compressed air, then wiping with a slightly damp paper towel. (Be sure to dry the jaw crusher with compressed air immediately after using damp paper towel to prevent build up of rust). Remember to clean spaces around the plates, and all surfaces of the machine that may have gathered dust as well. Close the jaw crusher and tighten the wheel to hold it in place.
 
-![img](https://lh5.googleusercontent.com/viFox3QS4WAnR1xg37f8QceZ6xqm-MH231phmKlbeG9IkKO3oS_P0GgiHWwY6mZnh-84fLAU57NfuHcDRcDMLXDKQfTg2PW0Es3RZo7OVCbfjKSlgvPaoks0ndZXnIotoHeCcINR)
+![Image of Jaw Crusher 1](images\jawCrusher_1.png)
 
 1. Clean the sample collection tray below the jaw crusher with the vacuum, compressed air, and damp paper towel as necessary until it is thoroughly free of dust or possible contaminants. (Be sure to dry it thoroughly so dust doesn’t stick to it later).
 2. Make sure your sample is in pieces small enough to fit in the jaw crusher, and if it is not, wrap it in newspaper and take it outside to the loading dock with a sledge to break it into small enough pieces, being careful not to contaminate it with the asphalt outside.
