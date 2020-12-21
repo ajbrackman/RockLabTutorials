@@ -7,10 +7,10 @@ Heavy Liquid Separation
   * Always perform this procedure under a fume hood, and with the proper safety gear.
   * Any spills or drops of M.I. must be IMMEDIATELY cleanup up using a paper towel dampened with acetone. M.I. will dissolve and become inert in acetone.
 
-.. Note:
+.. Note::
   We are relying on the density of the M.I. to separate zircon from the rest of the sample. Therefore, it is very important that you do not accidentally mix anything into the M.I., as we will be reclaiming it and using it over and over again. This also means all glassware must be COMPLETELY DRY before you begin. Keep careful track of what you are doing and WORK SLOWLY. The M.I. is very expensive and we want to avoid having to replace it.
 
-.. Attention:
+.. Attention::
   Anything that touches M.I. or acetone should be disposed of in a Ziploc bag labeled “M.I. Waste” kept under the hood to be collected later on by someone certified to dispose of chemical waste. This includes filters, paper towels, kimwipes, latex gloves, etc…
 
 Set Up
