@@ -2,7 +2,7 @@
 Frantz Magnetic Separator
 *****
 
-.. content:: Table of Contents
+.. contents:: Table of Contents
 
 .. Attention::
   **It is important during all steps to avoid touching the separating tray with your fingers. Oils from your fingers could make grains stick to the tray and be detrimental to proper separation.**

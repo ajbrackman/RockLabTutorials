@@ -5,7 +5,7 @@ Jaw Crusher
 .. Note::
   *It is recommended to complete preliminary cleaning and set up for both the jaw crusher and the disc mill, then run your sample through both, in that order.*
 
-.. content:: Table of contents
+.. contents:: Table of contents
 
 Set Up
 =====

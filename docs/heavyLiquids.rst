@@ -13,7 +13,7 @@ Heavy Liquid Separation
 .. Attention::
   Anything that touches M.I. or acetone should be disposed of in a Ziploc bag labeled “M.I. Waste” kept under the hood to be collected later on by someone certified to dispose of chemical waste. This includes filters, paper towels, kimwipes, latex gloves, etc…
 
-.. content:: Table of contents
+.. contents:: Table of contents
 
 Set Up
 =====

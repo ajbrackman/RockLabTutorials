@@ -2,7 +2,7 @@
 Water Table (Wilfley Table)
 *****
 
-.. content:: Table of contents
+.. contents:: Table of contents
 
 .. Attention:: NOTE: **It is important during all steps to avoid touching the surface of the table with your fingers. Oils from your fingers could make grains stick to the table and be detrimental to proper separation.**
 
