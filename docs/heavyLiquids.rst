@@ -32,8 +32,8 @@ Set Up
 
 .. figure:: ../images/heavyLiquids_1-01.png
   :alt: Fume hood set-up
-  :caption: Fume hood set-up
   :align: center
+  Fume hood set-up
 
 #. Take a piece of circular filter paper, and fold it in half, then in half again. Open it (2) and crease the sides. Place it in one of the glass funnels so that it stays. Repeat with another piece of filter paper for the second funnel.
 
