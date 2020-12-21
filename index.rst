@@ -13,6 +13,7 @@ Welcome to CSUN Rock Lab Manual's documentation!
    /docs/JawCrusher
    /docs/frantz
    /docs/waterTable
+   /docs/heavyLiquids
 
 Indices and tables
 ==================
