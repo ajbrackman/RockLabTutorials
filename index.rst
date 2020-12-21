@@ -13,6 +13,7 @@ These pages provide directions on the equipment and processes involved in prepar
    :caption: Zircon Separation Process
 
    /docs/JawCrusher
+   /docs/discMill
    /docs/frantz
    /docs/waterTable
    /docs/heavyLiquids
