@@ -6,6 +6,13 @@ Disc mill
 
 .. contents:: Table of contents
 
+Video Tutorial
+=====
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/zlVABQxTneU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Set Up
 =====
 
@@ -15,6 +22,7 @@ Set Up
 
 .. figure:: figure.png
   :alt: Example photo of cut garbage bag.
+  :align: center
 
 #. Attach the spinning plate (the one without the big hole in the middle) to the mill using the wrench to tighten the three (3) bolts.
 
@@ -33,4 +41,29 @@ Set Up
 Running the Sample
 =====
 
-#. Keep your sample under the disc mill hood.
+#. Keep your sample under the disc mill hood. You will be using a Dixie cup to deposit sample into the machine.
+
+#. **DON PROTECTIVE GEAR: *Hearing and dust protection.***
+
+#. Close the hood, turn on the light and fan with the switch on the side of the hood (1), and start the disc mill with the button on the wall (2). Listen for a moment to make sure everything is running smoothly.
+
+.. figure: switches.png
+  :alt: Image of switches
+  :caption: Switches for Disc mill
+  :align: center
+
+#. Deposit the sample into the slot on the machine in small increments (about 1-2 tablespoons at a time) from the Dixie cup. After depositing, wait and listen for the machine to clear before adding the next bit of sample.
+
+.. Note:
+  NOTE: For harder rocks, err on the side of caution by depositing smaller amounts of sample to keep the machine from locking up or jamming.
+
+#. Once the entire sample has been run, turn off the disc mill and the hood. Carefull open the trash bag taped over the top and then open the lid of the disc mill.
+
+#. Remove the left plate and set aside. Free the trash bag by removing any more tape, and either carefully pull the bag out from the bottom or up through the side, whichever seems easier. Tie off the bag and set aside.
+
+#. Once the sample is secure, continue disassembling the machine.
+
+Clean Up
+=====
+
+Clean the disc mill thoroughly using the methods described in Step 1 of the Set Up section. Be sure to focus on the plates with the metal brush. Re-assemble the machine and hand-tighten the bolts to make it easier to disassemble for cleaning on the next use.

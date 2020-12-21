@@ -2,7 +2,8 @@
 Water Table (Wilfley Table)
 *****
 
-*NOTE: It is important during all steps to avoid touching the surface of the table with your fingers. Oils from your fingers could make grains stick to the table and be detrimental to proper separation.*
+.. Attention: NOTE: **It is important during all steps to avoid touching the surface of the table with your fingers. Oils from your fingers could make grains stick to the table and be detrimental to proper separation.**
+
 1.     Move plastic sheet up and over the water spigots so it’s out of the way.
 2.     Using a damp paper towel, wipe the table area around the water table to prevent any contamination of your sample. Place the trash bag full of sample that has been processed by the disc mill on the table next to the machine.
 3.     Turn on both spigots on top of the water table to begin the flow of water, and turn on the switch to activate the shaking of the table.

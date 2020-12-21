@@ -15,8 +15,9 @@ These pages provide directions on the equipment and processes involved in prepar
    /docs/rockSaw
    /docs/JawCrusher
    /docs/discMill
-   /docs/frantz
+   /docs/sieve_magnet
    /docs/waterTable
+   /docs/frantz
    /docs/heavyLiquids
 
 .. toctree::

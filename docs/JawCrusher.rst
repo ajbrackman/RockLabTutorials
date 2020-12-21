@@ -2,7 +2,8 @@
 Jaw Crusher
 *****
 
-*It is recommended to complete preliminary cleaning and set up for both the jaw crusher and the disc mill, then run your sample through both, in that order.*
+.. Note:
+  *It is recommended to complete preliminary cleaning and set up for both the jaw crusher and the disc mill, then run your sample through both, in that order.*
 
 1. Clean the jaw crusher plates by first scrubbing thoroughly with the metal brush, followed by vacuuming, blowing with compressed air, then wiping with a slightly damp paper towel. (Be sure to dry the jaw crusher with compressed air immediately after using damp paper towel to prevent build up of rust). Remember to clean spaces around the plates, and all surfaces of the machine that may have gathered dust as well. Close the jaw crusher and tighten the wheel to hold it in place.
 
