@@ -4,13 +4,15 @@
 
 1. Clean the jaw crusher plates by first scrubbing thoroughly with the metal brush, followed by vacuuming, blowing with compressed air, then wiping with a slightly damp paper towel. (Be sure to dry the jaw crusher with compressed air immediately after using damp paper towel to prevent build up of rust). Remember to clean spaces around the plates, and all surfaces of the machine that may have gathered dust as well. Close the jaw crusher and tighten the wheel to hold it in place.
 
-![Image of Jaw Crusher 1](../images/jawCrusher_1.png)
+.. centered::
+  ![Image of Jaw Crusher 1](../images/jawCrusher_1.png)
 
 1. Clean the sample collection tray below the jaw crusher with the vacuum, compressed air, and damp paper towel as necessary until it is thoroughly free of dust or possible contaminants. (Be sure to dry it thoroughly so dust doesn’t stick to it later).
 2. Make sure your sample is in pieces small enough to fit in the jaw crusher, and if it is not, wrap it in newspaper and take it outside to the loading dock with a sledge to break it into small enough pieces, being careful not to contaminate it with the asphalt outside.
 3. Adjust the opening between the jaw crusher plates until the gap is about 0.5 cm across (to yield pieces that are approximately pea-sized).
 
- ![img](https://lh4.googleusercontent.com/0Na1RCUyRUgS6f74m5f-XEfPWTTmzLzrIs_dLfHQ1E6NpTTAgJw09wgSq7wi9-a_f55pDwOgAn2JVSISs-2npGmHxdKD7K-qOYZ2XQObKlhtZxqWoSgFMghEOitZOtb5mUWkHy9T)      
+.. centered::
+  ![Image of Jaw Crusher 2](../images/jawCrusher_2.png)      
 
 1. DON PROTECTIVE GEAR: Safety glasses and dust mask. Hearing protection too, if desired.
 2. Run your sample through the jaw crusher by dropping in a handful of your sample at a time, and immediately covering with the metal plate to prevent pieces from flying all over the room. (Keep your hand on the plate while it’s covering the opening. Harder rocks will fly upward with some force). Wait for the jaws to clear completely, and then deposit the next handful.
