@@ -26,3 +26,4 @@ These pages provide directions on the equipment and processes involved in prepar
   :caption: Fused Glass Bead process
 
   /docs/JawCrusher_XRFbeads
+  /docs/shatterBox
