@@ -12,6 +12,7 @@ These pages provide directions on the equipment and processes involved in prepar
    :numbered:
    :caption: Zircon Separation Process
 
+   /docs/zirconOverview
    /docs/rockSaw
    /docs/JawCrusher
    /docs/discMill
