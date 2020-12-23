@@ -13,13 +13,6 @@ These pages provide directions on the equipment and processes involved in prepar
    :caption: Zircon Separation Process
 
    /docs/zirconOverview
-   /docs/rockSaw
-   /docs/JawCrusher
-   /docs/discMill
-   /docs/sieve_magnet
-   /docs/waterTable
-   /docs/frantz
-   /docs/heavyLiquids
 
 .. toctree::
   :maxdepth: 2
