@@ -7,6 +7,9 @@ Frantz Magnetic Separator
 .. Attention::
   **It is important during all steps to avoid touching the separating tray with your fingers. Oils from your fingers could make grains stick to the tray and be detrimental to proper separation.**
 
+Set Up
+=====
+
 #. Wipe down all areas around the Frantz and the nearby table with a damp paper towel to avoid contamination of your sample.
 
 #. Remove the cover over the Frantz, and wipe down any dusty areas of the machine with a slightly damp paper towel.
@@ -23,6 +26,9 @@ Frantz Magnetic Separator
 
 #. Turn on the vibration and adjust the dial to about 6.5.
 
+Sample Processing
+=====
+
 #. Deposit your sample VERY slowly on the right of the farther side of the separator tray. You may use the vibration of the machine by touching the Dixie cup gently against the bolt or the tray to move sample out of the cup. NOTE: Watch the gap in the middle of the tray. Most of the grains should separate by about half-way across the gap. If some grains are still not fully separated past half-way, you are depositing too much sample at a time. Less sample at a time gives the grains a better chance of freeing themselves from each other.
 
 #. Once the entire sample has been processed, Remove the “non-mag” cup on the left of the machine and replace it with the next amperage increment up. In this case, that would be the “0.5a” Dixie cup. —After the last cup (“1.5a”) there will be no higher increment. At that time you may replace the “non-mag” cup with the “1.0a” cup. —
@@ -35,6 +41,8 @@ Frantz Magnetic Separator
 
 #. Place the contents of the Dixie cups into their respective glass vials.
 
+Clean Up
+=====
 #. Disassemble the separating tubes and tray, and once again clean them and the bolts with compressed air. Put the tubes and the tray away in their respective places, and cover the Frantz.
 
 #. High-five yourself.

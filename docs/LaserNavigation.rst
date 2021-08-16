@@ -4,7 +4,7 @@ Laser Ablation System - Sample Navigation & Georectification
 
 Introduction
 =====
-This document serves as a guide to georectification and low-zoom optical sample navigation on the Thermo-Fisher XXXXXX Laser Ablation system in the PLASMA lab at California State University, Northridge.
+This document serves as a guide to georectification and low-zoom optical sample navigation on the Thermo-Fisher Scientific Element2 Laser Ablation system in the PLASMA lab at California State University, Northridge.
 
 .. contents:: Table of contents
 
