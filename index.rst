@@ -21,3 +21,10 @@ These pages provide directions on the equipment and processes involved in prepar
 
   /docs/JawCrusher_XRFbeads
   /docs/shatterBox
+
+.. toctree::
+  :maxdepth: 2
+  :numbered:
+  :caption: Laser Ablation System Sample Navigation & Georectification
+
+  /docs/LaserNavigation
