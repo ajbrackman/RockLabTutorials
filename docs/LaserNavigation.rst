@@ -71,7 +71,7 @@ This section of the guide details a process that combines low-optical zoom navig
 Requirements
 =============
 
-#. Well-lit PPL image with recognizable and notated mineral grains for use as a map.
+#. Well-lit PPL image with recognizable and notated mineral grains for use as a map. A digital image on a laptop or tablet is ideal.
 
 .. Tip:: Take note of the shape of the edges of your sample, a thorough understanding of its orientation in the sample holder will speed this process up significantly.
 
@@ -80,7 +80,7 @@ Low-Zoom Orientation, Navigation, and Single-Mineral Mosaics
 
 #. After achieving ideal "Live View" lighting on your sample (covered in `this guide <https://docs.google.com/document/d/1YPAfG0GlW_42YNG_G1rbqmAK5pojShTGBN7mSOoytZc/edit>`_), reduce the Optical Zoom to 35%.
 
-Zooming out will allow you to recognize grain shapes from your labeled PPL map as they should now appear to be a similar scale.
+Zooming out will allow you to recognize grain shapes from your labeled PPL map as they should now appear to be a similar scale. Using a digital image on a tablet or laptop will be easier than a printed map for this stage, as you will be able to modify the zoom of the PPL image to closer match the Live View of the laser.
 
 #. Using your map and knowledge of the sample's orientation in the laser cell, find an identifiable feature along one edge or corner of the sample.
 
