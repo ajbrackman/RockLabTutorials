@@ -15,6 +15,15 @@ Heavy Liquid Separation
 
 .. contents:: Table of contents
 
+Video Tutorial
+=====
+
+.. raw:: html
+
+  <div style="position: center; overflow: hidden; max-width: 100%; height: auto;">
+  <src="https://www.youtube.com/embed/dixpMqjij40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
 Set Up
 =====
 
@@ -33,7 +42,7 @@ Set Up
 .. figure:: ../images/heavyLiquids_1.png
   :alt: Fume hood set-up
   :align: center
-  
+
   Fume hood set-up
 
 #. Take a piece of circular filter paper, and fold it in half, then in half again. Open it (2) and crease the sides. Place it in one of the glass funnels so that it stays. Repeat with another piece of filter paper for the second funnel.
