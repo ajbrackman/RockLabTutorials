@@ -21,7 +21,7 @@ Video Tutorial
 .. raw:: html
 
   <div style="position: center; overflow: hidden; max-width: 100%; height: auto;">
-  <src="https://www.youtube.com/embed/rjF0Q3825Kk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe src="https://www.youtube.com/embed/rjF0Q3825Kk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 Set Up
