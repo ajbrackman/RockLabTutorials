@@ -6,6 +6,15 @@ Frantz Magnetic Separator
 .. Attention::
   **It is important during all steps to avoid touching the separating tray with your fingers. Oils from your fingers could make grains stick to the tray and be detrimental to proper separation.**
 
+Video Tutorial
+=====
+
+.. raw:: html
+
+  <div style="position: center; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/czTkZXEMsaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
 Set Up
 *******
 
