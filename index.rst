@@ -28,3 +28,10 @@ These pages provide directions on the equipment and processes involved in prepar
   :caption: Laser Ablation System Sample Navigation & Georectification
 
   /docs/LaserNavigation
+
+.. toctree::
+  :maxdepth: 2
+  :numbered:
+  :caption: Photomicrographs & Photomosaics
+
+  /docs/photomosaics
