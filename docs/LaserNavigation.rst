@@ -64,6 +64,44 @@ Image Alignment
 ================
 .. Note:: More coming soon!
 
+Now that your optical image has been loaded into Chromium2 we will use the "Alignment Marks" tool to match features between our image and the Live View of the sample.
+
+#. The first step in the image alignment process is locating a recognizable feature on both representations of your sample.
+  #. Find a unique mineral grain or other sample feature (good choices include multiple grain intersections and other point-like features) on your imported image.
+  #. Locate this same feature in the Live View window. You may have to zoom in and/or adjust the lighting.
+
+.. Tip:: If your imported image is in the way of the Live View, turning its opacity down and using the "Select/Drag" tool to offset it from the true position may make this process easier.
+
+#. Click on the "Alignment Mark" tool in the Chromium2 toolbar.
+
+.. figure:: ../images/AlignmentTool.jpg
+  :alt: Screenshot of Place/Move Scans Toolbar in Chromium2
+  :align: center
+
+#. With the Alignment Mark tool selected click on the feature on your **imported image**, then click on the same spot in the Live View to place two alignment marks.
+
+.. figure:: ../images/screw.jpg
+  :alt: Example image of alignment marks chosen at the center of an image of a screw on the sample holder.
+  :align: center
+
+.. Note:: You can use the "Select/Drag" tool to reposition the marks you have made if they are not exactly in the right place. The more precise the alignment marks are, the better the results will be.
+
+#. Now, zoom out and find second feature to align. This should ideally be as far away from your first point as possible.
+
+#. Repeat steps 2 & 3 above to place alignment marks on this new feature.
+
+#. Double check to make sure your alignment marks are placed in exactly the same location on each feature.
+
+#. In the "Layers and Images" bar at the top of the Chromium2 screen, click "Align" next to your imported image. This will open a window showing the locations of your alignment marks.
+
+.. figure:: ../images/Align.jpg
+  :alt: Screenshot of alignment window
+  :align: center
+
+#. If your alignment marks were placed properly, the program will now automatically georecitify the imported image to the Live View! If this process succeeds, move on to collecting your data. 'This guide <https://docs.google.com/document/d/1YPAfG0GlW_42YNG_G1rbqmAK5pojShTGBN7mSOoytZc/edit>`_ has a detailed walkthrough of selecting individual spots.
+
+.. Attention:: If you are unsuccessful at the automatic georectification process, try repeating the steps outlined above with an extra set of alignment marks. If this does not work, use the instructions described in :ref:'Low-Zoom Orientation, Navigation, and Single-Mineral Mosaics'
+
 Low-Optical Zoom Orientation & Navigation
 *******************************************
 This section of the guide details a process that combines low-optical zoom navigation of the sample holder in with the creation of small reflected light mosaic images of the target grains.
