@@ -98,9 +98,9 @@ Now that your optical image has been loaded into Chromium2 we will use the "Alig
   :alt: Screenshot of alignment window
   :align: center
 
-#. If your alignment marks were placed properly, the program will now automatically georecitify the imported image to the Live View! If this process succeeds, move on to collecting your data. 'This guide <https://docs.google.com/document/d/1YPAfG0GlW_42YNG_G1rbqmAK5pojShTGBN7mSOoytZc/edit>`_ has a detailed walkthrough of selecting individual spots.
+#. If your alignment marks were placed properly, the program will now automatically georecitify the imported image to the Live View! If this process succeeds, move on to collecting your data. `This guide <https://docs.google.com/document/d/1YPAfG0GlW_42YNG_G1rbqmAK5pojShTGBN7mSOoytZc/edit>`_ has a detailed walkthrough of selecting individual spots.
 
-.. Attention:: If you are unsuccessful at the automatic georectification process, try repeating the steps outlined above with an extra set of alignment marks. If this does not work, use the instructions described in :ref:'Low-Zoom Orientation, Navigation, and Single-Mineral Mosaics'
+.. Attention:: If you are unsuccessful at the automatic georectification process, try repeating the steps outlined above with an extra set of alignment marks. If this does not work, use the instructions described Section 1.3 below.
 
 Low-Optical Zoom Orientation & Navigation
 *******************************************
