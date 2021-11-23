@@ -94,7 +94,7 @@ Now that your optical image has been loaded into Chromium2 we will use the "Alig
 
 #. In the "Layers and Images" bar at the top of the Chromium2 screen, click "Align" next to your imported image. This will open a window showing the locations of your alignment marks.
 
-.. figure:: ../images/Align.jpg
+.. image:: ../images/Align.jpg
   :alt: Screenshot of alignment window
   :align: center
 
