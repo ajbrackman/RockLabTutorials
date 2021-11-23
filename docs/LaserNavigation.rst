@@ -62,7 +62,6 @@ Continue onto the next section for a walkthrough of the image alignment process.
 
 Image Alignment
 ================
-.. Note:: More coming soon!
 
 Now that your optical image has been loaded into Chromium2 we will use the "Alignment Marks" tool to match features between our image and the Live View of the sample.
 
