@@ -27,19 +27,19 @@ Requirements
 Loading Images
 ===============
 
-.. figure:: ../images/chromiumDesktop.png
+.. image:: ../images/chromiumDesktop.png
   :alt: Windows desktop with Chromium2.3 icon noted.
   :align: center
 
 #. First, open the Chromium2.3 program from the laser control computer.
 
-.. figure:: ../images/chromiumHome.png
+.. image:: ../images/chromiumHome.png
   :alt: Windows desktop with Chromium2.3 icon noted.
   :align: center
 
 #. Choose "Import Image.." from the **Layers** tab at the top-center of the screen.
 
-.. figure:: ../images/ChromiumLayers_import.jpg
+.. image:: ../images/ChromiumLayers_import.jpg
   :alt: Labeled image of Chromium2.3 software.
   :align: center
 
@@ -48,13 +48,13 @@ Loading Images
 
 #. The pop-up box will ask you to enter the image size and alignment manually, but we're not really going to worry about this for now. If you know the size of your thin-section in mm, you can enter it here, otherwise just click **Ok**.
 
-.. figure:: ../images/ImageAlignMenu.jpg
+.. image:: ../images/ImageAlignMenu.jpg
   :alt: Labeled image of Chromium2.3 software.
   :align: center
 
 #. At this point, the pop-up dialog will close and your image will be loaded onto the main screen. Make certain that the "Locked" box is unchecked like in the image below.
 
-.. figure:: ../images/Unlock.jpg
+.. image:: ../images/Unlock.jpg
   :alt: Labeled image of Chromium2.3 software.
   :align: center
 
@@ -74,13 +74,13 @@ Now that your optical image has been loaded into Chromium2 we will use the "Alig
 
 #. Click on the "Alignment Mark" tool in the Chromium2 toolbar.
 
-.. figure:: ../images/AlignmentTool.jpg
+.. image:: ../images/AlignmentTool.jpg
   :alt: Screenshot of Place/Move Scans Toolbar in Chromium2
   :align: center
 
 #. With the Alignment Mark tool selected click on the feature on your **imported image**, then click on the same spot in the Live View to place two alignment marks.
 
-.. figure:: ../images/screw.jpg
+.. image:: ../images/screw.jpg
   :alt: Example image of alignment marks chosen at the center of an image of a screw on the sample holder.
   :align: center
 
@@ -126,7 +126,7 @@ Zooming out will allow you to recognize grain shapes from your labeled PPL map a
 
 #. Now, using your labeled map, navigate to your chosen grain(s). From the **Layers** menu, choose "Build Mosaic."
 
-.. figure:: ../images/ChromiumLayers_mosaic.jpg
+.. image:: ../images/ChromiumLayers_mosaic.jpg
   :alt: Labeled image of Chromium2.3 software.
   :align: center
 
