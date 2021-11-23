@@ -15,14 +15,14 @@ Photomicrographs
 
   * Instructions for Nikon LV-250 Petrographic Microscope:
 
-      #. Flip switch on back left
-      #. Turn light knob on left to full brightness
+      #. Flip switch on back left.
+      #. Turn light knob on left to full brightness.
 
-    .. Note::
-        *Make sure the microscope is set to transmitted light
+.. Note::
+  *Make sure the microscope is set to transmitted light.*
 
-    .. Note::
-        *Make sure the upper polarizer is clamped
+.. Note::
+  *Make sure the upper polarizer is clamped.*
 
 #. Open the **Nikon Spot** program on the desktop.
 
